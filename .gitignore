@@ -2,3 +2,6 @@
 # because that directory is auto-generated
 # and should be excluded from Git anyway.
 .vagrant/
+
+# Ignore all .pem files
+*.pem
